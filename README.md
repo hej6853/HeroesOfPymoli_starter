@@ -68,6 +68,11 @@ Like many others in its genre, the game is free-to-play, but players are encoura
   * Purchase Count
   * Item Price
   * Total Purchase Value
+ 
+##Conclusion
+- Male players are 6 times more than female players in the Heroes of Pymoli game and male players purchase more items than female players.
+- 20s~30s users occupy more than 80% of the Heroes of Pymoli, while the 'average_purchase_total' is the lowest among all age groups. (the 50s has the highest 'average_purchase _total')
+- The most profitable items are Final Critic	and Last Hope of the Breaking Storm.	
 
 ## Skills learned 
 - Pandas Library and the Jupyter Notebook
